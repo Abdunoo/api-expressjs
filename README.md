@@ -1,6 +1,6 @@
 # E-commerce Project
 
-This project is an e-commerce application built with Node.js, Express.js, MySQL, Sequelize ORM, and implements REST API for communication.
+This project is an e-commerce application backend built with Node.js, Express.js, MySQL, Sequelize ORM, and implements REST API for communication.
 
 ## Table of Contents
 
@@ -32,6 +32,10 @@ This repository contains the backend implementation of an e-commerce application
 - MySQL
 - Sequelize ORM
 - JSON Web Tokens (JWT)
+- bcryptjs
+- body-parser
+- cors
+- dotenv
 
 ## Setup
 
@@ -112,7 +116,7 @@ Contributions are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](LICENSE)
+ISC
 
 ---
 
