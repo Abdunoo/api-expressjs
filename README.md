@@ -117,7 +117,3 @@ Contributions are welcome. For major changes, please open an issue first to disc
 ## License
 
 ISC
-
----
-
-Feel free to customize this template according to your specific project structure, additional features, or any other relevant details!
